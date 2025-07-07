@@ -13,8 +13,8 @@ Design patterns are proven solutions to common problems in software design. They
   - [Prototype](./CreationalPatterns/Prototype/README.md)
   - [Singleton](./CreationalPatterns/Singleton/README.md)
 - **Structural Patterns**: Focus on the composition of classes and objects.
+  - [Adapter](./StructuralPatterns/Adapter/README.md)
 - **Behavioral Patterns**: Concerned with object interaction and responsibility.
-  - [Adapter](./StructuralPatterns/Adapter/README.md)  
 
 ## Structure of the Repository
 Each pattern will have:
