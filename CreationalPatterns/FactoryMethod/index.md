@@ -83,5 +83,5 @@ Use the Factory Method pattern when:
 - [Refactoring Guru: Factory Method](https://refactoring.guru/design-patterns/factory-method)
 ---
 
-See the `TypeScript/` folder for implementation examples.
-See the `CSharp/` folder for implementation examples.
+* See the `TypeScript/` folder for implementation examples.
+* See the `CSharp/` folder for implementation examples.
