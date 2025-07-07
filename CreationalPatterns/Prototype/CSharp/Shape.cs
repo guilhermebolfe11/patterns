@@ -1,4 +1,5 @@
-namespace Prototype
+namespace Prototype;
+
 {
     public abstract class Shape : IPrototype<Shape>
     {
