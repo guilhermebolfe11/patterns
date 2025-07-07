@@ -7,10 +7,11 @@ Design patterns are proven solutions to common problems in software design. They
 
 ## Categories of Patterns
 - **Creational Patterns**: Deal with object creation mechanisms.
-  - [Factory Method](./CreationalPatterns/FactoryMethod/index.md)
-  - [Abstract Method](./CreationalPatterns/AbstractFactory/index.md)
-  - [Builder](./CreationalPatterns/Builder/index.md)
-  - [Prototype](./CreationalPatterns/Prototype/index.md)
+  - [Factory Method](./CreationalPatterns/FactoryMethod/README.md)
+  - [Abstract Method](./CreationalPatterns/AbstractFactory/README.md)
+  - [Builder](./CreationalPatterns/Builder/README.md)
+  - [Prototype](./CreationalPatterns/Prototype/README.md)
+  - [Singleton](./CreationalPatterns/Singleton/README.md)
 - **Structural Patterns**: Focus on the composition of classes and objects.
 - **Behavioral Patterns**: Concerned with object interaction and responsibility.
 
