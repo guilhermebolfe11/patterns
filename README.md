@@ -6,11 +6,12 @@ This repository contains a collection of design patterns implemented in various 
 Design patterns are proven solutions to common problems in software design. They represent best practices used by experienced developers to solve recurring design challenges.
 
 ## Categories of Patterns
-- **Creational Patterns**: Deal with object creation mechanisms (e.g., Singleton, Factory, Abstract Factory, Builder, Prototype).
+- **Creational Patterns**: Deal with object creation mechanisms.
   - [Factory Method](./CreationalPatterns/FactoryMethod/index.md)
   - [Abstract Method](./CreationalPatterns/AbstractFactory/index.md)
-- **Structural Patterns**: Focus on the composition of classes and objects (e.g., Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy).
-- **Behavioral Patterns**: Concerned with object interaction and responsibility (e.g., Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor).
+  - [Builder](./CreationalPatterns/Builder/index.md)
+- **Structural Patterns**: Focus on the composition of classes and objects.
+- **Behavioral Patterns**: Concerned with object interaction and responsibility.
 
 ## Structure of the Repository
 Each pattern will have:
