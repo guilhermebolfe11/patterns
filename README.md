@@ -10,6 +10,7 @@ Design patterns are proven solutions to common problems in software design. They
   - [Factory Method](./CreationalPatterns/FactoryMethod/index.md)
   - [Abstract Method](./CreationalPatterns/AbstractFactory/index.md)
   - [Builder](./CreationalPatterns/Builder/index.md)
+  - [Prototype](./CreationalPatterns/Prototype/index.md)
 - **Structural Patterns**: Focus on the composition of classes and objects.
 - **Behavioral Patterns**: Concerned with object interaction and responsibility.
 
