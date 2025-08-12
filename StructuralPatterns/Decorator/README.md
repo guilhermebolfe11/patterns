@@ -83,3 +83,4 @@ Use the Decorator pattern when:
 
 * See the `TypeScript/` folder for implementation examples.
 * See the `CSharp/` folder for implementation examples.
+* See the `Go/` folder for implementation examples.
